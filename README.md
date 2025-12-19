@@ -15,7 +15,7 @@ Validação: Implementação de lógica para garantir que os navios não ultrapa
 
 Exibição: Impressão formatada do tabuleiro no console para fácil visualização.
 
-🛠️ Tecnologias e Conceitos
+Tecnologias e Conceitos
 Linguagem: C
 
 Matrizes: Manipulação de arrays bidimensionais.
@@ -24,7 +24,7 @@ Loops: Uso de laços aninhados (for) para processamento de dados.
 
 Documentação: Código comentado seguindo boas práticas de desenvolvimento.
 
-🚀 Como Executar
+ Como Executar
 Compile o arquivo:
 
 Bash
